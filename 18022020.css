@@ -21,6 +21,7 @@ body{
     background-color: gray;
     float: left;
     font-size: 15px;
+    text-decoration-style: none;
 }
 #icerik{
     border-style: none;
@@ -28,5 +29,6 @@ body{
     padding: 20px;
     background-color: gray;
     height: 248px;
-    float: initial;
+    text-align: justify;
+    
 }
