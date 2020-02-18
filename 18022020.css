@@ -26,9 +26,9 @@ body{
 #icerik{
     border-style: none;
     font-size: 20px;
-    padding: 20px;
+    padding: 75px;
     background-color: gray;
-    height: 248px;
+    height: 136px;
     text-align: justify;
     font-style: italic;
 }
